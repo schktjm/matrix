@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.e308ff8e.css","sourceRoot":"../src","sourcesContent":["#canvas {\n  height: 100vh;\n  width: 100vw;\n}\n\nbody {\n  background-color: black;\n  height: 100vh;\n  width: 100vw;\n  padding: 0;\n  margin: 0; /* ここ効かない */\n}\n"]}

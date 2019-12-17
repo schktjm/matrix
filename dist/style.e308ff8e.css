@@ -1,0 +1,15 @@
+#canvas {
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0; /* ここ効かない */
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
